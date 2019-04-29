@@ -25,8 +25,11 @@ Edit the contents of you document in report.md, add bibliography to report.bib.
 
 ## 3. Generating pdf
 
-Run
+For default latex look:
 ```
-chmod u+x ./generate.sh
-./generate.sh
+bin/sh ./generate.sh
+```
+For the eisvogel template
+```
+/bin/sh ./generate_eisvogel.sh
 ```

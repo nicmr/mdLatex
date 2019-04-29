@@ -1,1 +1,1 @@
-pandoc report.md -o report.pdf --from markdown --template eisvogel --listings --filter pandoc-citeproc --bibliography=report.bib
+pandoc report.md -o report.pdf --from markdown --listings --filter pandoc-citeproc --bibliography=report.bib
