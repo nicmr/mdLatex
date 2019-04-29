@@ -1,5 +1,5 @@
 # mdLatex
-A template repository for markdown to Latex projects.
+A template repository for markdown to Latex projects, primarily for personal use.
 
 
 ## 1. Installing dependencies
