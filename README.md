@@ -6,8 +6,7 @@ A template repository for markdown to Latex projects, primarily for personal use
 
 ### On debian-based systems:
 ```shell
-chmod u+x ./install_deps.sh
-sudo ./install_deps.sh
+sudo /bin/sh ./install_deps.sh
 ```
 ### On other systems:
 
@@ -27,7 +26,7 @@ Edit the contents of you document in report.md, add bibliography to report.bib.
 
 For default latex look:
 ```
-bin/sh ./generate.sh
+/bin/sh ./generate.sh
 ```
 For the eisvogel template
 ```
